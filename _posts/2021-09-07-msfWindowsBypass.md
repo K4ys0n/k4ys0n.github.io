@@ -1,7 +1,7 @@
 ---
 layout:     post            # 使用的布局（不需要改）
 title:      MSF Windows免杀   # 标题
-subtitle:   这里分享的是截止2021年9月7号测试仍免杀的Windows10木马，过火绒、360、天擎、Win10 defender。  # 副标题
+subtitle:   简单bypass过数字和wd。  # 副标题
 date:       2021-09-07      # 时间
 author:     K4ys0n           # 作者
 header-img: img/post-bg-coffee.jpeg    # 这篇文章标题背景图片
@@ -15,7 +15,7 @@ tags:                       # 标签
 ---
 
 # 前言
-本次目标是简单测试能过一般杀软的MSF木马，火绒、天擎、360、Win10 Defender等。
+本次目标是简单测试能过一般杀软。
 
 这里会用到MSF的一个payload：`python/meterpreter/reverse_tcp_ssl`。
 
